@@ -1,0 +1,102 @@
+{
+ "1": {
+  "dir": "lumen-guide-1",
+  "sha": "cde097cf"
+ },
+ "3": {
+  "dir": "lumen-guide-3",
+  "sha": "95564643"
+ },
+ "5": {
+  "dir": "lumen-guide-5",
+  "sha": "c5c5b779"
+ },
+ "7": {
+  "dir": "lumen-guide-7",
+  "sha": "40ba7409"
+ },
+ "8": {
+  "dir": "lumen-guide-8",
+  "sha": "2742b78b"
+ },
+ "9": {
+  "dir": "lumen-guide-9",
+  "sha": "17218671"
+ },
+ "persona:overview": {
+  "dir": "lumen-persona-overview",
+  "sha": "df3ff5a9"
+ },
+ "persona:0.5": {
+  "dir": "lumen-persona-0-5",
+  "sha": "bb4daaff"
+ },
+ "persona:search": {
+  "dir": "lumen-persona-search",
+  "sha": "e0729d94"
+ },
+ "persona:0.5:0-5-情報リテラシー・ゲート": {
+  "dir": "lumen-persona-literacy-gate",
+  "sha": "27b19633"
+ },
+ "persona:コード実行・検証・データ操作ツールの発動基準": {
+  "dir": "lumen-persona-code-exec-criteria",
+  "sha": "1f1fc966"
+ },
+ "persona:アクション・グラフ-内部実行基盤-について": {
+  "dir": "lumen-persona-action-graph",
+  "sha": "d533e58a"
+ },
+ "overview": {
+  "dir": "lumen-overview",
+  "sha": "37a95acb"
+ },
+ "safety": {
+  "dir": "lumen-safety",
+  "sha": "5e3433d1"
+ },
+ "1.5": {
+  "dir": "lumen-guide-1-5",
+  "sha": "4aa401d9"
+ },
+ "1.62": {
+  "dir": "lumen-guide-1-62",
+  "sha": "574080ec"
+ },
+ "1.68": {
+  "dir": "lumen-guide-1-68",
+  "sha": "7842d276"
+ },
+ "1.69": {
+  "dir": "lumen-guide-1-69",
+  "sha": "afd23167"
+ },
+ "1.695": {
+  "dir": "lumen-guide-1-695",
+  "sha": "c22d8178"
+ },
+ "1.7": {
+  "dir": "lumen-guide-1-7",
+  "sha": "7fd8c602"
+ },
+ "guide:tool実行契約": {
+  "dir": "lumen-guide-tool",
+  "sha": "6d41cafd"
+ },
+ "3.5": {
+  "dir": "lumen-guide-3-5",
+  "sha": "b13f19e6"
+ },
+ "5.5": {
+  "dir": "lumen-guide-5-5",
+  "sha": "21df950a"
+ },
+ "9.5": {
+  "dir": "lumen-guide-9-5",
+  "sha": "4fd96cdb"
+ },
+ "9.6": {
+  "dir": "lumen-guide-9-6",
+  "sha": "1c8cd1df"
+ }
+}
